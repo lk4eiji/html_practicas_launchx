@@ -20,7 +20,7 @@ footer{
     color: #3F5E4B;
 }
 .imagenBienvenida{
-    width: 100%;
+    max-width: 100%;
 	max-height: 600px;
 	overflow: hidden;
 }
@@ -34,8 +34,7 @@ height: 7rem;
     justify-content: center;
 }
 .cards{
-    margin-right: 5px;
-    width: 20rem;
+    margin-bottom: 1%;
 }
 .footerIcons{
     text-decoration: none;
