@@ -1,0 +1,58 @@
+footer{
+    background-color: #6A9E7D;
+    padding: 1%;
+}
+.h1{
+    color: #84C49B;
+    background-color: #3F5E4B;
+    padding-bottom: 5px;
+}
+.navbar{
+    background: #84C49B;
+}
+.links{
+    text-decoration: none;
+    padding-left: 10px;
+    color: white;
+}
+.links:hover{
+    transition: color 0.3s ease-out 100ms;
+    color: #3F5E4B;
+}
+.imagenBienvenida{
+    width: 100%;
+	max-height: 600px;
+	overflow: hidden;
+}
+.logo{
+width: auto;
+height: 7rem;
+}
+.menu{
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+}
+.cards{
+    margin-right: 5px;
+    width: 20rem;
+}
+.footerIcons{
+    text-decoration: none;
+    padding: 4px;
+    padding-left: 10px;
+    color: white;
+}
+.footerIcons:hover{
+    transition: color 0.1s ease-out 100ms;
+    color: #3F5E4B;
+}
+.cardTitle{
+    text-align: center;
+}
+.form{
+    border-radius: 1%;
+    margin: 1%;
+    padding: 1%;
+    background-color: rgba(37, 64, 43, 0.2);
+}
