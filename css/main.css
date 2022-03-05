@@ -20,8 +20,6 @@ footer{
     color: #3F5E4B;
 }
 .imagenBienvenida{
-    max-width: 100%;
-	max-height: 600px;
 	overflow: hidden;
 }
 .logo{
@@ -54,4 +52,8 @@ height: 7rem;
     margin: 1%;
     padding: 1%;
     background-color: rgba(37, 64, 43, 0.2);
+}
+.img{
+    max-width: 100%;
+	max-height: 1000px;
 }
